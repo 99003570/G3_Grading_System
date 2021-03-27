@@ -17,58 +17,62 @@ Folder             | Description
 Name                           |   PS No.  |    Features    | Issuess Raised |      Issues Resolved         
 -------------------------------|-----------|----------------|----------------|------------------------------
 `1) Sanidya Sharan`             | 99003570  |  Integrator, Actions & Workflow, Coding main method, Test plan and code    | on bugging     | workflow file and bugging issue resolved    
-`2) Omisha        `          | 99003649  | Coding, analyzerStr method, test case updation | on unity workflowfile   | operation and coding issue resolved  
-`3) Naresh Manjunath Moger`   | 99003601  | Coding, suggestion method, High Level Design      |on methods code         | errors are resolved          
-`4) Mohammad Arsalaan Ansari`             | 99003675  | Coding random function, Low Level Design     | error          | errors are resolved          
+`2) Omisha Mahere`          | 99003679  | Coding, analyzerStr method, test case updation | on unity workflowfile   | operation and coding issue resolved  
+`3) Maddu Hema Supriya `   | 99003552  | Coding, suggestion method, High Level Design      |on methods code         | errors are resolved          
+`4) Mohammad Arsalaan Ansari`             | 99003675  | Coding random function, Low Level Design     | error          | errors are resolved   
+`5) Meduri NJ Srilekha`             | 99003546  | Coding random function, Low Level Design     | error          | errors are resolved
     
 # Challenges
 
-1. We faced challenges in Unity Configuration.
+1. We faced challenges in creating the hyperlinks.
 2. We faced challenges in unit testing.
-3. We faced challenges in git inspector.
-4. We faced challenges in source code for suggesting password function.
+3. We faced challenges in adding new modules in the grading system.
 
 
 # Introduction
 
-The project is to provide a Web Application to the faculty for marking/grading system and manage the batches and courses running for the trainee.
+The project is to provide a Web Application to the faculty for marking/grading system and manage the batches and courses running for the trainees. It will track all the courses, batches and modules that are running in the training place and it will have the feature to add new courses and modules to the training.
 
 
 # FEASIBILITY STUDY
 # WHY-
-It can be used to create or set a strong password for user accounts to make working online more secure.
+It will provide a very easy handling of marks, courses and the training details and tracking everything with the help of this system will make things easy and user friendly.
 
 # WHEN-
-This project will be used by the universities/colleges/individual/hospitals/secure sites and the usage list are long as everybody needs a strong password to make their accounts secure as its the first priority, when it comes to the internet world.
+This project will be used by the universities/colleges throughout the training program as it provides functionalities that run all over the year.
 
 # WHAT-
-The product is password strength analyzer. It tells that minimum 12 to 16 characters are required and with minimum one capital letter,one small letter, one numeric value and one special character are required to make the password strong. If the user wants the suggested password then the user can choose to take the suggested password at the start and if not, then the user is given the option to create its own password while satisfying the conditions required for creating a strong password.
-
+The project is to provide a Web Application to the faculty for marking/grading system and manage the batches and courses running for the trainees. It will track all the courses, batches and modules that are running in the training place and it will have the feature to add new courses and modules to the training.
 
 # WHERE-
 This project will be accessible to anyone using a mobile phone or a PC and a working internet connection.
 
 # HOW-
-Firstly, we will give the suggested password by the help of suggestion method which generates random passwod. If suggested password is taken , its saved for the user. If suggested password is not taken, then number of passwords the user wants to saved is asked to the user. After the user tells the number of password he/she wants to enter, then the password is created and then re-entered to match both the password, and saved if the password matches, it is done by the help of analyzerstr method in which we compare the spasswords and also check that all the conditions are satisfied.
+Firstly, we created a database in which tables and procedures are defined. After it with the help of the layered approcah we connected the database with the Web API project and after it adding the MVC project to the API and creting the view we displayed everything function in the web browser.
 
 
 # Swot Analysis: -
   # (i). Strengths   --
-      1. It will require more than 200 years to crack the password if Dictionary based algorithms are used.
-      2. Difficult to guess password and do rehashing.
-      3. Using every set of characters present on the keyword which makes the password complex and strong.
+      1. It will help to manage vast number of trainees in a very effective and easy way.
+      2. Learning and progress report for every trainee will be monitored properly.
+      3. It will reduce societal pressure and will provide the learner with more flexibility.
+      4. It will lead to a focus on a better learning environment Operational
+      5. It will add and update the list of the trainees in the program as per the situation.
+      6. It will be able to add a new module and track and assign it to the trainees.
 
  # (ii). Weakness   --
-      1. Difficult to memorize.
-      2. If supercomputers are used to crack the password it would take less than 5 seconds. 
+      1. Narrowed down to the feature and functions provided and predefined.
+      2. It is limited to one type of grading sytem i.e, standard marks grading system and not be able to calculate gardes based on percentage, mastery or narrative grading. 
+      3. This system will make trainees/student marks/grades centric other than knowledge centric. 
+      
 
  # (iii). Opportunities   --    
-      1.Strong and secure password gives essential protection from financial fraud.
-      2.To make people aware about the benefits and necessity of strong passwords to make their accounts secure.
+      1. It will help tom scale up the project to manage other aspects of the program other than trainee, for example tracking all the faculty, vendors, etc.
+   
 
 # (iv). Threats   --
-     1. Supercomputers can crack the password easily.
-     2. New method and attacks will be figured out which will make it less secure as time passes
+     1. Malicious external and internal cybersecurity attacks can be done on the grading system.
+     2. If breached into the system the data can be stolen, tampered or updated in a wrong way.
      
 
 # Test Case Table
