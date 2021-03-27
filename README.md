@@ -17,7 +17,7 @@ Folder             | Description
 Name                           |   PS No.  |    Features    | Issuess Raised |      Issues Resolved         
 -------------------------------|-----------|----------------|----------------|------------------------------
 `1) Sanidya Sharan`             | 99003570  |  Integrator, Actions & Workflow, Coding main method, Test plan and code    | on bugging     | workflow file and bugging issue resolved    
-`2) Nishant Hawaliya`          | 99003649  | Coding, analyzerStr method, test case updation | on unity workflowfile   | operation and coding issue resolved  
+`2) Omisha        `          | 99003649  | Coding, analyzerStr method, test case updation | on unity workflowfile   | operation and coding issue resolved  
 `3) Naresh Manjunath Moger`   | 99003601  | Coding, suggestion method, High Level Design      |on methods code         | errors are resolved          
 `4) Mohammad Arsalaan Ansari`             | 99003675  | Coding random function, Low Level Design     | error          | errors are resolved          
     
@@ -31,7 +31,7 @@ Name                           |   PS No.  |    Features    | Issuess Raised |  
 
 # Introduction
 
-The product tells about the strength of the password. It tells that minimum 12 to 16 characters are required and with minimum one capital letter,one small letter, one numeric value and one special character are required to make the password strong. If the user wants the suggested password then the user can choose to take the suggested password at the start and if not, then the user is given the option to create its own password while satisfying the conditions required for creating a strong password.
+The project is to provide a Web Application to the faculty for marking/grading system and manage the batches and courses running for the trainee.
 
 
 # FEASIBILITY STUDY
