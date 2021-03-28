@@ -21,7 +21,7 @@ Develop a User Interface for the grading system that will display the trainee ma
 
 **Class Diagram**
 
- ![]()
+ ![](https://github.com/99003570/G3_Grading_System/blob/main/LLD.jpg?raw=true)
 
 # Contributors List and Issue Tracker 
 
