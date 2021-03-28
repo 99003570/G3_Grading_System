@@ -14,13 +14,13 @@ Folder             | Description
 
 # Contributors List and Issue Tracker 
 
-Name                           |   PS No.  |    Features    | Issuess Raised |      Issues Resolved         
--------------------------------|-----------|----------------|----------------|------------------------------
-`1) Sanidya Sharan`             | 99003570  | Created batch table,Coding on batch table and Unit Testing    | on bugging     | workflow file and bugging issue resolved    
-`2) Omisha Mahere`          | 99003679  | Created trainee table,Coding on Trainee table and Unit Testing | on unity workflowfile   | operation and coding issue resolved  
-`3) Maddu Hema Supriya `   | 99003552  |Created Module Marks table, Coding on Module Marks  table and Unit Testing      |on methods code         | errors are resolved          
-`4) Mohammad Arsalaan Ansari`             | 99003675  |Created Track table, Coding on Track table and Unit Testing     | error          | errors are resolved   
-`5) Meduri NJ Srilekha`             | 99003546  | CreatedModule table, Coding on Module table and Unit Testing    | error          | errors are resolved
+Name                           |   PS No.  |    Features           
+-------------------------------|-----------|----------------
+`1) Sanidya Sharan`             | 99003570  | Created batch table,Coding on batch table and Unit Testing 
+`2) Omisha Mahere`          | 99003679  | Created trainee table,Coding on Trainee table and Unit Testing
+`3) Maddu Hema Supriya `   | 99003552  |Created Module Marks table, Coding on Module Marks  table and Unit Testing
+`4) Mohammad Arsalaan Ansari`             | 99003675  |Created Track table, Coding on Track table and Unit Testing
+`5) Meduri NJ Srilekha`             | 99003546  | CreatedModule table, Coding on Module table and Unit Testing 
     
 # Challenges
 
