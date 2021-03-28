@@ -76,7 +76,7 @@ Firstly, we created a database in which tables and procedures are defined. After
      
 
 # Test Case Table
-|**Test Case       ID**|<p>`       `**Test Case**  </p><p>`   `**Scenario**</p>|**Expected Output**|` `**Actual output**|<p></p><p>**STATUS**</p>|
+|**Test Case       ID**|<p>`       `**Test Case**  </p><p>`   `**Scenario**</p>|**Expected Output**|**Actual output**|<p></p><p>**STATUS**</p>|
 | :- | :- | :- | :- | :- |
 |1.|Entering the PSNumber of length equals to 8|Pass.|Pass.|Pass.|
 |2.|Entering the PSNumber greater or less than 8|table not found|table not found|Pass.|
