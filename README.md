@@ -79,15 +79,14 @@ Firstly, we created a database in which tables and procedures are defined. After
 |**Test Case       ID**|<p>`       `**Test Case**  </p><p>`   `**Scenario**</p>|**Expected Output**|` `**Actual output**|<p></p><p>**STATUS**</p>|
 | :- | :- | :- | :- | :- |
 |1.|Entering the PSNumber of length equals to 8|Pass.|Pass.|Pass.|
-|2.|Entering less than 12 characters.|OOPS! Password must be at least 12 to 16 characters.|OOPS! Password must be at least 12 to 16 characters.|Pass.|
-|3.|Entering password without capital letter.|OOPS! Weak password, Enter at least one capital letter.|OOPS! Weak password, Enter at least one capital letter.|Pass.|
-|4.|Entering password without small letter.|OOPS! Weak password, Enter at least one small letter.|OOPS! Weak password, Enter at least one small letter.|Pass.|
-|5.|Entering password without numeric value.|OOPS! Weak password, Enter at least one numeric value.|OOPS! Weak password, Enter at least one numeric value.|Pass.|
-|6.|Entering password without special character.|OOPS! Weak password, Enter at least one special letter.|OOPS! Weak password, Enter at least one special letter.|Pass.|
-|7.|Entering 17 characters.|OOPS! Weak password, Password must be at least 12 to 16 characters.|<p>OOPS! Weak password, Password must be at least 12 to 16 characters.</p><p></p>|Pass.|
-|8.|Entering 11 characters.|OOPS! Password must be at least 12 to 16 characters.|OOPS! Password must be at least 12 to 16 characters.|Pass.|
-|9.|Enter how many times user wants to save password, if user enter zero than program terminates |Program terminated|Program terminated|Pass.|
-|10.|User want to save the suggested password than enter 1|Your password is saved, your password is: -|Your password is saved, your password is :-|Pass.|
-|11.|User don’t want to save the suggested password than enter 0 for entering manual password|Enter your password: -|Enter your password: -|Pass.|
+|2.|Entering the PSNumber greater or less than 8|table not found|table not found|Pass.|
+|3.|Entering the module marks with PsNumber|Trainee Added Successfully|Trainee Added Successfully|Pass.|
+|4.|Entering the trainee cgpa with length greater than 2|table not found|table not found|Pass.|
+|5.|updating the trackstatus with trackid exists in the Track|Updated track status successfully|Updated track status successfully|Pass.|
+|6.|updating the trackstatus with trackid  not exists in the Track|table not found|table not found|Pass.|
+|7.|Entering the length of the emailid greater than 50|table not found|table not found|Pass.|
+|8.|Adding the module marks of the trainee that doesnot exist in the module marks table|added successfully|table not found|Pass.|
+|9.|Adding the module marks of the trainee that exist in the module marks table|table not found|table not found|Pass.|
+|10.|Adding the values beyond the length|table not found|table not found|Pass.|
 
 
