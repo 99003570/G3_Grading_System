@@ -15,8 +15,13 @@ Develop a User Interface for the grading system that will display the trainee ma
 
 # Design
 
+**UseCase Diagram**
+
 ![](https://github.com/99003570/G3_Grading_System/blob/main/UseCaseDiagram.png?raw=true)
- 
+
+**Class Diagram**
+
+ ![]()
 
 # Contributors List and Issue Tracker 
 
