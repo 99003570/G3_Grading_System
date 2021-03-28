@@ -78,7 +78,7 @@ Firstly, we created a database in which tables and procedures are defined. After
 # Test Case Table
 |**Test Case       ID**|<p>`       `**Test Case**  </p><p>`   `**Scenario**</p>|**Expected Output**|` `**Actual output**|<p></p><p>**STATUS**</p>|
 | :- | :- | :- | :- | :- |
-|1.|Entering 12 to 16 characters which includes at least one capital letter, one small, letter, one special character and one numeric value.|YEAH! Password is strong.|YEAH! Password is strong.|Pass.|
+|1.|Entering the PSNumber of length equals to 8|Pass.|Pass.|
 |2.|Entering less than 12 characters.|OOPS! Password must be at least 12 to 16 characters.|OOPS! Password must be at least 12 to 16 characters.|Pass.|
 |3.|Entering password without capital letter.|OOPS! Weak password, Enter at least one capital letter.|OOPS! Weak password, Enter at least one capital letter.|Pass.|
 |4.|Entering password without small letter.|OOPS! Weak password, Enter at least one small letter.|OOPS! Weak password, Enter at least one small letter.|Pass.|
