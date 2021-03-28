@@ -9,7 +9,13 @@ Folder             | Description
 `Implementation` | All code and documentation including source code and header files.
 `Test Plan`      | Documents with test cases codes and there positive and negative outputs.
 
+# Requirements
 
+Develop a User Interface for the grading system that will display the trainee marks and adding the module marks if faculty wants to add and operations team to add new batch,new trainee,new track and module.
+
+# Design
+
+![](https://github.com/99003570/G3_Grading_System/blob/main/UseCaseDiagram.png?raw=true)
  
 
 # Contributors List and Issue Tracker 
